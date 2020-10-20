@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Pozoriste\Pozoriste\bin\Debug\Pozoriste.exe.config
+C:\Users\Lenovo\source\repos\Pozoriste\Pozoriste\bin\Debug\Pozoriste.exe
+C:\Users\Lenovo\source\repos\Pozoriste\Pozoriste\bin\Debug\Pozoriste.pdb
+C:\Users\Lenovo\source\repos\Pozoriste\Pozoriste\obj\Debug\Pozoriste.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Pozoriste\Pozoriste\obj\Debug\Pozoriste.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Pozoriste\Pozoriste\obj\Debug\Pozoriste.exe
+C:\Users\Lenovo\source\repos\Pozoriste\Pozoriste\obj\Debug\Pozoriste.pdb
